@@ -1,6 +1,10 @@
 # Lucavishop-frontend
 
-Aplicación frontend para plataforma de comercio electrónico de venta de ropa.
+Interfaz de usuario del ecommerce, desarrollada con React, TailwindCSS y DaisyUI. Este frontend consume la API del backend para ofrecer una experiencia completa que incluye autenticación de usuarios, gestión de productos, carrito de compras, sistema de órdenes, foro de preguntas, favoritos, calificaciones y notificaciones en tiempo real.
+
+> ⚠️ Este repositorio contiene únicamente el código del frontend. El backend con la lógica de negocio, base de datos y API se encuentra disponible en: [enlace al repositorio del backend]
+
+Proyecto inspirado en el vídeo de [RocoDev](https://youtu.be/DMW3j99HB3s?si=LytLBhDK5WUEuacn). Muchas gracias al creador por el aporte.
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -47,6 +51,8 @@ La aplicación correrá en http://localhost:3000
 - npm run build	Generar build para producción
 
 ## 🔗 Backend
-- Este frontend consume la API del repositorio backend:
+- Este frontend consume la API del repositorio backend:https://github.com/isapartan03/Lucavishop-backend
 
 ## 👥 Autores
+- Jeremy I. Ramírez A.
+- Johny L. Torres (https://github.com/JohnyTorresDev)
