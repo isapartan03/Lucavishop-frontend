@@ -2,7 +2,7 @@
 
 Interfaz de usuario del ecommerce, desarrollada con React, TailwindCSS y DaisyUI. Este frontend consume la API del backend para ofrecer una experiencia completa que incluye autenticación de usuarios, gestión de productos, carrito de compras, sistema de órdenes, foro de preguntas, favoritos, calificaciones y notificaciones en tiempo real.
 
-> ⚠️ Este repositorio contiene únicamente el código del frontend. El backend con la lógica de negocio, base de datos y API se encuentra disponible en: [enlace al repositorio del backend]
+> ⚠️ Este repositorio contiene únicamente el código del frontend.
 
 Proyecto inspirado en el vídeo de [RocoDev](https://youtu.be/DMW3j99HB3s?si=LytLBhDK5WUEuacn). Muchas gracias al creador por el aporte.
 
