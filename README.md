@@ -1,7 +1,5 @@
 # Lucavishop-frontend
 
-# Frontend - Ecommerce Tienda de Ropa
-
 Aplicación frontend para plataforma de comercio electrónico de venta de ropa.
 
 ## 🛠️ Tecnologías utilizadas
